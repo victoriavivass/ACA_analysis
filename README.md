@@ -3,9 +3,11 @@
 **Submission Date:** June 2025  
 
 ## Project Overview  
-This project is part of the continuous assessment for the course *Programming for Data Science*.  
+This project was developed as the **final evaluation for the course *Programming for Data Science*** at the Universitat Oberta de Catalunya (UOC).  
 
-Its main objective is to develop a **modular Python package** to analyse the water volume of the **La Baells Reservoir**.  
+It was carried out during my **gap year**, while preparing and applying for a Master's program, as a way to consolidate my skills in Python, modular programming, testing, and data analysis.  
+
+The main objective is to build a **modular Python package** to analyze the water volume of the **La Baells Reservoir** using real open data from the *Agència Catalana de l’Aigua (ACA)*.  
 The project is structured into five modules, each covering different analysis tasks and functionalities: data loading, cleaning, transformations, smoothing, and drought period detection.  
 
 ---
